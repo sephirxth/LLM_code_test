@@ -61,6 +61,18 @@ python claude_opus_4.5_METAPrompt.py
 # → 800x800 window with bouncing balls in rotating heptagon
 ```
 
+
+## Related Projects
+
+| Project | What It Does |
+|---------|-------------|
+| [WitMani Game Animator](https://github.com/sephirxth/WitMani-game-animator) | AI-powered game sprite animation — practical application of LLM + image generation |
+| [OpenClaw Canvas](https://github.com/sephirxth/openclaw-canvas) | AI agent orchestration dashboard — built on the same multi-model philosophy |
+| [SurvivorDemo](https://github.com/sephirxth/SurvivorDemo) | Browser survival game — one of the target outputs these LLMs would generate |
+| [NetOps](https://github.com/sephirxth/transport-sim) | Network routing puzzle game — another complex codebase for LLM evaluation |
+
+[All projects →](https://github.com/sephirxth)
+
 ## License
 
 MIT
